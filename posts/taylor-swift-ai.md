@@ -1,5 +1,5 @@
 ---
-title: "Does Taylor Swift Sound Like AI, or Does AI Sound Like Taylor Swift?"
+title: "Does Taylor Swift sound like AI, or does AI sound like Taylor Swift?"
 description: "How AI training data, copyright lawsuits, and licensing deals are reshaping the economics of music."
 date: 2026-09-30
 tags: [AI, copyright, music-industry, intellectual-property]
