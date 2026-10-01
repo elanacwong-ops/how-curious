@@ -1,7 +1,7 @@
 ---
 title: "What is going on in college athletics?"
 description: "Exploring the disruption of competitive balance in the NCAA and NIL. "
-date: 2026-10-2
+date: 2026-10-1
 tags: [sports-economics, competitive-balance]
 ---
 
