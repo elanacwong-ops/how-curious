@@ -45,15 +45,15 @@ Happy listening!
 
 Genius. (n.d.). Taylor Swift. Retrieved September 30, 2026, from <https://genius.com/artists/Taylor-swift/songs>
 
-LaCroix, J. (2026, September 28). Social media users compare Taylor Swift's "Patient Zero" to artificially generated song about trains. Parade. <https://parade.com/entertainment/taylor-swifts-patient-zero-sounds-like-artificially-generated-song-about-trains>
+LaCroix, J. (2026, September 28). Social media users compare Taylor Swift's "Patient Zero" to artificially generated song about trains. *Parade*. <https://parade.com/entertainment/taylor-swifts-patient-zero-sounds-like-artificially-generated-song-about-trains>
 
-Moss, M. (2026, September 15). The internet is tearing Stella Lefty apart. Nashville sees her success differently. Rolling Stone. <https://www.rollingstone.com/music/music-features/stella-lefty-song-stealing-nashville-responds-1235625583/>
+Moss, M. (2026, September 15). The internet is tearing Stella Lefty apart. Nashville sees her success differently. *Rolling Stone*. <https://www.rollingstone.com/music/music-features/stella-lefty-song-stealing-nashville-responds-1235625583/>
 
-Nordstrom, B. (2026, September 27). Major record labels sue Cambridge-based AI platform, again. Boston.com. <https://www.boston.com/news/local-news/2026/09/27/major-record-labels-sue-cambridge-based-ai-platform-again/>
+Nordstrom, B. (2026, September 27). Major record labels sue Cambridge-based AI platform, again. *Boston.com*. <https://www.boston.com/news/local-news/2026/09/27/major-record-labels-sue-cambridge-based-ai-platform-again/>
 
-Notopoulos, K. (2025, November 30). How this 21-year-old college student used AI to build his "Learning with Lyrics" Instagram and TikTok accounts. Business Insider. <https://www.businessinsider.com/learning-with-lyrics-ai-songs-videos-tiktok-instagram-social-2025-11>
+Notopoulos, K. (2025, November 30). How this 21-year-old college student used AI to build his "Learning with Lyrics" Instagram and TikTok accounts. *Business Insider*. <https://www.businessinsider.com/learning-with-lyrics-ai-songs-videos-tiktok-instagram-social-2025-11>
 
-Reisner, A. (2026, September 25). America's hypocritical take on intellectual property. The Atlantic*. <https://www.theatlantic.com/technology/2026/09/trump-admin-ai-copyright-lawsuits/688751/>
+Reisner, A. (2026, September 25). America's hypocritical take on intellectual property. *The Atlantic*. <https://www.theatlantic.com/technology/2026/09/trump-admin-ai-copyright-lawsuits/688751/>
 
 Stassen, M. (2025, November 25). Warner Music Group strikes "landmark" deal with Suno; settles copyright lawsuit against AI music generator. *Music Business Worldwide*. <https://www.musicbusinessworldwide.com/warner-music-group-settles-with-suno-strikes-first-of-its-kind-deal-with-ai-song-generator/>
 
